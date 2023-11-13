@@ -17,7 +17,13 @@
 
 ---
 
+![ML](https://raw.githubusercontent.com/ruzgiiar/Is-Bank-Machine-Learning-Challenge/main/Is%20Bank%20ML%20Challenge/ML.jpg)
 
+---
+
+Huseyin YIGIT
+
+---
 
 
 
