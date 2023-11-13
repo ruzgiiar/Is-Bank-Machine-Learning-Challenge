@@ -21,7 +21,8 @@
 
 ---
 
-            **Huseyin YIGIT**            |           ruzgiiar@gmail.com
+- ***Huseyin YIGIT***               |
+- ***ruzgiiar@gmail.com***          |
 
 ---
 
